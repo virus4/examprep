@@ -1,2 +1,0 @@
-# examprep
-a practise project.
